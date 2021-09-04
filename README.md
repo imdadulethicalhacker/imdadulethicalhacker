@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @imdadulethicalhacker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-imdadulethicalhacker/imdadulethicalhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h1 align="center">Hi 👋, I'm Imdadul Hoque</h1>
 <h3 align="center">A passionate cyber security from India</h3>
