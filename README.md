@@ -1,29 +1,115 @@
 
-<h1 align="center">Hi 👋, I'm Imdadul Hoque</h1>
-<h3 align="center">A passionate cyber security from India</h3>
+### Hi there <a href="#"><img src="pic/giphy.webp" width="25px"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdadulethicalhacker&label=Profile%20views&color=0e75b6&style=flat" alt="imdadulethicalhacker" /> </p>
+## Hey, I'm Imdadul Hoque <a href="#"> <img src="pic/flag.gif" width="40px"> </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdadulethicalhacker" alt="imdadulethicalhacker" /></a> </p>
+- I'm currently in **Cyber Security** 😊. <br/>
+- 🤞 Preparing to crack **CEH**. <br/>
+- 💻 Worked on many different technologies. <br/>
+- 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
+- 💼 Freelancer python developer. <br/>
+- 👯 I’m looking for members for our **CTF** team.... <br/>
+- 📜 Created a little useful Python Scripts 😆. 
 
-- 🔭 I’m currently working on **Bug bounty**
+<a href="#">
+<img alt="GIF" src="pic/Code.gif" width="500"/>
+</a>
 
-- 🌱 I’m currently learning **Cyber Security**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imdadulhoque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imdadulhoque/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/imdadulhoque01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imdadulhoque01/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/imdadulhoque00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imdadulhoque00/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8jtkksxl6khdttfirq91uw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8jtkksxl6khdttfirq91uw" height="30" width="40" /></a>
-</p>
+### Certificates
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://github.com/imdadulethicalhacker/My_Achievements/raw/main/Damncon2021CTFCertificate.pdf">
+  <img alt="Damcon2021 CTF" width="220px" src="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/Damncon2021CTFCertificate.png" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdadulethicalhacker&show_icons=true&locale=en&layout=compact" alt="imdadulethicalhacker" /></p>
+<a href="https://raw.githubusercontent.com/imdadulethicalhacker/My_Achievements/main/Ground_Zero_1_CTF_Certificate.pdf">
+  <img alt="ISOEH Ground_Zero_1 CTF" width="220px" src="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/Ground_Zero_1_CTF_Certificate.png" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdadulethicalhacker&show_icons=true&locale=en" alt="imdadulethicalhacker" /></p>
+<a href="https://raw.githubusercontent.com/imdadulethicalhacker/My_Achievements/main/Ground_Zero_2_CTF_Certificate.pdf">
+  <img alt="ISOEH Ground_Zero_2 CTF" width="220px" src="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/Ground_Zero_2_CTF_Certificate.png" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdadulethicalhacker&" alt="imdadulethicalhacker" /></p>
+<a href="https://raw.githubusercontent.com/imdadulethicalhacker/My_Achievements/main/C.pdf">
+  <img alt="CCNA Essential" width="220px" src="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/CCNA_Essential.png" />
+</a>
 
+<a href="https://raw.githubusercontent.com/imdadulethicalhacker/My_Achievements/main/CCNA_Essential.pdf">
+  <img alt="C Programming" width="220px" src="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/C.png" />
+</a>
+
+<a href="https://raw.githubusercontent.com/imdadulethicalhacker/My_Achievements/main/Ethical_hacking.pdf">
+  <img alt="Ethical Hacking" width="220px" src="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/Ethical_hacking.png" />
+</a>
+
+### Languages and Tools
+
+
+<code><a href="https://www.python.org"><img height="30" src="pic/python.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="30" src="pic/c-programming.png"/></a></code>
+<code><a href="https://www.java.com/en/"><img height="34.2" src="pic/java-coffee-cup-logo.png"/></a></code>
+<code><a href="https://kotlinlang.org"><img height="30" src="pic/kotlin.png"/></a></code>
+<code><a href="https://www.oracle.com/in/database/technologies/appdev/sqldeveloper-landing.html"><img height="32" src="pic/oracle-database.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="30" src="pic/html-5.png"/></a></code>
+<code><a href="https://www.docker.com"><img height="32" src="pic/docker.png"/></a></code>
+<code><a href="https://github.com"><img height="30" src="pic/github.png"/></a></code>
+<code><a href="https://developer.android.com/studio"><img height="30" src="pic/pasted image 0.png"/></a></code>
+<code><a href="https://code.visualstudio.com"><img height="30" src="pic/visual-studio-code-2019.png"/></a></code>
+
+
+### Interests
+
+👍 Ethical Hacking <br/>
+👍 Cyber Security <br/>
+👍 Software Development <br/>
+👍 Game Development <br/>
+👍 Android Development <br/>
+👍 Capture The Flag (CTF)
+<br/>
+<br/>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdadulethicalhacker&theme=merko)](https://github.com/imdadulethicalhacker)
+
+ <br/>
+
+<details>
+<summary>📈 <strong >My GitHub Stats </strong> </summary>
+
+<p align="center"> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=imdadulethicalhacker&show_icons=true&theme=gotham" alt="imdadulethicalhacker" /></a>
+</details>
+
+### Connect With Me
+<a href="https://www.linkedin.com/in/imdadulhoque/">
+  <img align="left" alt="Imdadul LinkdeIN" width="36.5px" src="pic/linkedin-circled.png" />
+</a>
+<a href="https://www.facebook.com/imdadulhoque01/">
+  <img align="left" alt="Imdadul Facebook" width="36.5px" src="pic/facebook-new.png" />
+</a>
+<a href="https://t.me/imdadulethicalhacker/">
+  <img align="left" alt="Imdadul Telegram" width="36.5px" src="pic/telegram-app--v1.png" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=imdadulethicalhacker@gmail">
+  <img align="left" alt="Imdadul Email" width="36.5px" src="pic/gmail_icon-icons.com_62758.png" />
+</a>
+</a>
+<a href="https://tryhackme.com/p/Imdadulhoque">
+  <img align="left" alt="Imdadul THM" width="35.5px" src="pic/thm_logo_circle.png" />
+</a>
+<a href="https://www.instagram.com/imdadulhoque00/">
+  <img align="left" alt="Imdadul Instagram" width="35.5px" src="pic/instagram.png" />
+</a>
+<a href="https://twitter.com/AssameseHacking">
+  <img align="left" alt="Imdadul Twitter" width="35.5px" src="pic/twitter.png" />
+</a>
+<a href="https://www.youtube.com/channel/UC8jTkKSxl6KHDTTfirq91Uw">
+  <img align="left" alt="Imdadul Youtube" width="35.5px" src="pic/youtube.png" />
+</a>
+
+<br>
+<br>
+<br>
+<a href="#">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdadulethicalhacker&label=PROFILE+VISITOR+COUNTER&style=flat&color=6495ED" alt="Imdadul" /> 
+</a>
+  
+🙏 _**• Thank You •**_ 🙏
