@@ -3,7 +3,7 @@
 ## Hey, I'm Imdadul Hoque <a href="#"> <img src="https://github.com/imdadulethicalhacker/All_photo/blob/main/profile/flag.gif" width="40px"> </a>
 
 - I'm currently in **Cyber Security** 😊. <br/>
-- 🤞 I am crack **CEH**. <br/>
+- 🤞 CEH v11** Certified. <br/>
 - 💻 Worked on many different technologies. <br/>
 - 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
 - 💼 Freelancer python developer. <br/>
@@ -12,6 +12,12 @@
 
 <a href="#">
 <img alt="GIF" src="https://github.com/imdadulethicalhacker/All_photo/blob/main/profile/Code.gif" width="500"/>
+</a>
+
+### Badges, Achievements and Certificates
+
+<a href="https://www.hackerrank.com/Hrishikesh7665">
+  <img align="left" alt="CEH's CEH Badge" width="135px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/CEH_BADGE.png" />
 </a>
 
 
