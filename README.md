@@ -14,6 +14,12 @@
 <img alt="GIF" src="https://github.com/imdadulethicalhacker/All_photo/blob/main/profile/Code.gif" width="500"/>
 </a>
 
+### Badges, Achievements and Certificates
+
+<a href="https://www.hackerrank.com/Hrishikesh7665">
+  <img align="left" alt="Hrishikesh's CEH Badge" width="135px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/CEH_BADGE.png" />
+</a>
+
 
 ### Certificates
 <a href="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/ECC-CEH-Certificate.pdf">
