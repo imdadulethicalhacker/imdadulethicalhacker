@@ -1,6 +1,6 @@
-### Hi there <a href="#"><img src="https://raw.githubusercontent.com/imdadulethicalhacker/All_photo/main/profile/giphy.webp" width="25px"></a>
+### Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"></a>
 
-## Hey, I'm Imdadul Hoque <a href="#"> <img src="https://github.com/imdadulethicalhacker/All_photo/blob/main/profile/flag.gif" width="40px"> </a>
+## Hey, I'm Imdadul Hoque <a href="#"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" height="30px" width="30px"> </a>
 
 - I'm currently in **Cyber Security** 😊. <br/>
 - 🤞 CEH v11** Certified. <br/>
