@@ -78,7 +78,6 @@
 </details>
 
 ### Connect With Me <a href="#"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="35px" width="40px"/> </a>
-<br/>
 <a href="https://www.linkedin.com/in/imdadulhoque/">
   <img align="left" alt="Imdadul LinkdeIN" width="36.5px" src="https://github.com/imdadulethicalhacker/All_photo/blob/main/profile/linkedin-circled.png" />
 </a>
