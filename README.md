@@ -16,6 +16,9 @@
 
 
 ### Certificates
+<a href="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/ECC-CEH-Certificate.pdf">
+  <img alt="Damcon2021 CTF" width="220px" src="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/ECC-CEH-Certificate.png" />
+</a>
 
 <a href="https://github.com/imdadulethicalhacker/My_Achievements/raw/main/Damncon2021CTFCertificate.pdf">
   <img alt="Damcon2021 CTF" width="220px" src="https://github.com/imdadulethicalhacker/My_Achievements/blob/main/Damncon2021CTFCertificate.png" />
