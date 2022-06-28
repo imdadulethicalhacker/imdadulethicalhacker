@@ -3,7 +3,7 @@
 ## Hey, I'm Imdadul Hoque <a href="#"> <img src="https://github.com/imdadulethicalhacker/All_photo/blob/main/profile/flag.gif" width="40px"> </a>
 
 - I'm currently in **Cyber Security** 😊. <br/>
-- 🤞 Preparing to crack **CEH**. <br/>
+- 🤞 I am crack **CEH**. <br/>
 - 💻 Worked on many different technologies. <br/>
 - 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
 - 💼 Freelancer python developer. <br/>
