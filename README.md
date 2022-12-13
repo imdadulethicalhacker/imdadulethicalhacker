@@ -6,7 +6,6 @@
 - 🤞 CEH v11** Certified. <br/>
 - 💻 Worked on many different technologies. <br/>
 - 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
-- 💼 Freelancer python developer. <br/>
 - 👯 I’m looking for members for our **CTF** team.... <br/>
 - 📜 Created a little useful Python Scripts 😆. 
 
